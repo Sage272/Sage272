@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently appling to college
+- I like to 3D Model
+- I had a really cool internship at UCSB over the summer
 <!--
 **Sage272/Sage272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
