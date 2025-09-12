@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- I'm currently appling to college
+- I'm currently at Santa Barbara City College
 - I like to 3D Model
 - I had a really cool internship at UCSB over the summer
+
+Here is a link to my website where you can find out more about what I do!
+https://2025mechatronicsseanwirtz.weebly.com
 <!--
 **Sage272/Sage272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
