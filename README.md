@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm currently at Santa Barbara City College
-- I like to 3D Model
+- I like to make 3D Models
 - I had a really cool internship at UCSB over the summer
 
 Here is a link to my website where you can find out more about what I do!
